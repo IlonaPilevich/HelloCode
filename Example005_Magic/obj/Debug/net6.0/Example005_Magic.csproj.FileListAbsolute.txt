@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\bin\Debug\net6.0\Example005_Magic.exe
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\bin\Debug\net6.0\Example005_Magic.deps.json
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\bin\Debug\net6.0\Example005_Magic.runtimeconfig.json
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\bin\Debug\net6.0\Example005_Magic.dll
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\bin\Debug\net6.0\Example005_Magic.pdb
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\obj\Debug\net6.0\Example005_Magic.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\obj\Debug\net6.0\Example005_Magic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\obj\Debug\net6.0\Example005_Magic.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\obj\Debug\net6.0\Example005_Magic.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\obj\Debug\net6.0\Example005_Magic.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\obj\Debug\net6.0\Example005_Magic.dll
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\obj\Debug\net6.0\refint\Example005_Magic.dll
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\obj\Debug\net6.0\Example005_Magic.pdb
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\obj\Debug\net6.0\Example005_Magic.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example005_Magic\obj\Debug\net6.0\ref\Example005_Magic.dll
