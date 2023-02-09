@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\obj\Debug\net6.0\Example003_IfElse.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\obj\Debug\net6.0\Example003_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\obj\Debug\net6.0\Example003_IfElse.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\obj\Debug\net6.0\Example003_IfElse.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\obj\Debug\net6.0\Example003_IfElse.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\bin\Debug\net6.0\Example003_IfElse.exe
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\bin\Debug\net6.0\Example003_IfElse.deps.json
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\bin\Debug\net6.0\Example003_IfElse.runtimeconfig.json
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\bin\Debug\net6.0\Example003_IfElse.dll
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\bin\Debug\net6.0\Example003_IfElse.pdb
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\obj\Debug\net6.0\Example003_IfElse.dll
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\obj\Debug\net6.0\refint\Example003_IfElse.dll
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\obj\Debug\net6.0\Example003_IfElse.pdb
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\obj\Debug\net6.0\Example003_IfElse.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example003_IfElse\obj\Debug\net6.0\ref\Example003_IfElse.dll
