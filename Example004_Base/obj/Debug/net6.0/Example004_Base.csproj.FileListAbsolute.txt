@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\bin\Debug\net6.0\Example004_Base.exe
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\bin\Debug\net6.0\Example004_Base.deps.json
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\bin\Debug\net6.0\Example004_Base.runtimeconfig.json
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\bin\Debug\net6.0\Example004_Base.dll
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\bin\Debug\net6.0\Example004_Base.pdb
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\obj\Debug\net6.0\Example004_Base.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\obj\Debug\net6.0\Example004_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\obj\Debug\net6.0\Example004_Base.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\obj\Debug\net6.0\Example004_Base.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\obj\Debug\net6.0\Example004_Base.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\obj\Debug\net6.0\Example004_Base.dll
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\obj\Debug\net6.0\refint\Example004_Base.dll
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\obj\Debug\net6.0\Example004_Base.pdb
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\obj\Debug\net6.0\Example004_Base.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ РАЗРАБОТЧИК\Работа с Сишарп (С##)\Exemples\Example004_Base\obj\Debug\net6.0\ref\Example004_Base.dll
